@@ -530,10 +530,9 @@ while session == True:
   print("13 - Gerenciador de Servicos")
   print("14 - Testar a velocidade da Internet (Speed Test Cli)")
   print("15 - Ver os logs do kernel")
-  print("16 - Atualizar o sistema no DEBIAN/UBUNTU (16.1 - APT update | 16.2 - APT upgrade)")
+  print("16 - Atualizar o sistema (16.1 - APT update | 16.2 - APT upgrade)")
   print("17 - Gerenciador de Usuários")
   print("18 - Ver RESUMO do hardware do PC")
-  print("19 - Atualizar o sistema no ARCH LINUX")
   inpuu = input('-> ')
   if inpuu == "1":
     # Fecha o programa
@@ -591,9 +590,6 @@ while session == True:
     limpar_tela()
   elif inpuu == "18":
     inxi()
-    limpar_tela()
-  elif inpuu == "19":
-    syu()
     limpar_tela()
   else:
     limpar_tela()
