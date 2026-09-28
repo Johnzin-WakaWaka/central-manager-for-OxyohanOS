@@ -1,0 +1,7 @@
+Package: centralmgr for OxyohanOS
+Version: 0.0.0.1-1.0yama
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: OxyohanTeam <oxys.contact.official@gmail.com>
+Description: Uma central de manuntenção para a distro linux OxyohanOS
