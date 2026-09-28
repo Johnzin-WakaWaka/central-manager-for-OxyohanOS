@@ -513,7 +513,7 @@ while session == True:
   print("|            Ultra Oxyohan Central Manager                |")
   print("|             Criado por JohnzinOmochain                  |")
   print("----------------------------------------------------------")
-  print("|                       0.0.0.1                           |")
+  print("|                      0.0.0.1a                           |")
   print("===========================================================")
   print("1 - Sair")
   print("2 - Mostrar data e hora")
